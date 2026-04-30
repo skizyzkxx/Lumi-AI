@@ -42,5 +42,5 @@
 
 ## 👨‍💻 Creator
 
-Developed by **skizyzkxx**
+Developed by **skizyzkxx and hrbveew**
 
