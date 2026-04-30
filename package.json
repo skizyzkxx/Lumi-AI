@@ -1,0 +1,12 @@
+{
+  "name": "lumi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node artifacts/api-server/dist/index.mjs"
+  },
+  "dependencies": {
+    "nodemailer": "^8.0.6"
+  }
+}
